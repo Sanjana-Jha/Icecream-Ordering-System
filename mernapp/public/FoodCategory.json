@@ -1,0 +1,58 @@
+[
+{
+    "CategoryName": "Ice-Cream",
+    "name": "Cups Icecream",
+    "img": "/card4.jpg",
+    "options": [
+        {
+            "Chocolate": "30",
+            "Strawberry": "20",
+            "Vanilla": "30",
+            "Butter-Scoth": "50"
+        }
+    ],
+    "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+},
+{
+    "CategoryName": "Ice-Cream",
+    "name": "Sticks Icecream",
+    "img": "/card2.jpg",
+    "options": [
+        {
+            "Chocolate": "30",
+            "Strawberry": "20",
+            "Vanilla": "30",
+            "Butter-Scoth": "50"
+        }
+    ],
+    "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+},
+{
+    "CategoryName": "Ice-Cream",
+    "name": "Cone Icecream",
+    "img": "/card3.jpg",
+    "options": [
+        {
+            "Chocolate": "30",
+            "Strawberry": "20",
+            "Vanilla": "30",
+            "Butter-Scoth": "50"
+        }
+    ],
+    "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+},
+{
+    "CategoryName": "Ice-Cream",
+    "name": "Family Pack",
+    "img": "/card1.jpg",
+    "options": [
+        {
+            "Chocolate": "130",
+            "Strawberry": "120",
+            "Vanilla": "130",
+            "Butter-Scoth": "150"
+        }
+    ],
+    "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+}
+]
