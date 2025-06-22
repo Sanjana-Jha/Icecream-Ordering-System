@@ -2,6 +2,49 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a full-stack MERN (MongoDB, Express, React, Node.js) project.
+
+---
+
+## 🛠️ Installation Guide
+
+### ⚙️ 1. Clone the Repository
+
+```bash
+git clone https://github.com/Sanjana-Jha/mernapp.git
+cd mernapp
+```
+
+---
+
+### 🧩 2. Set Up the Backend
+
+```bash
+cd backend
+npm install
+```
+
+- Create a `.env` file in the `backend/` folder.
+
+Example `.env`:
+```env
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+```
+
+---
+
+### 🌐 3. Set Up the Frontend
+
+```bash
+cd ../
+npm install
+```
+
+---
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +111,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 📌 Notes
+
+- Ensure MongoDB is running (local or MongoDB Atlas).
+- Configure CORS if needed.
+
